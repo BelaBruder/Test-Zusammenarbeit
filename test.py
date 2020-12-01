@@ -5,3 +5,4 @@ c =2
 print("HAllo")
 print(c)
 print(b)
+a = "AA"
